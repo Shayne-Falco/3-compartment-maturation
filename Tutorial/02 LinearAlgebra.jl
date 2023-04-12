@@ -33,7 +33,7 @@ S = sprand(5,5,2/5)
 @show S.colptr
 @show S.m
 
-X1 = load("Tutorial/khiam-small.jpg")
+X1 = load("Tutorial/Images/khiam-small.jpg")
 Xgray = Gray.(X1)
 
 XgrayValues = Float64.(Xgray)
@@ -68,7 +68,7 @@ v1 = SVD_V.V[:,i]
 img1 = u1*spdiagm(0=>SVD_V.S[i])*v1'
 Gray.(img1)
 
-M = matread("Tutorial/face_recog_qr.mat")
+M = matread("Tutorial/Images/face_recog_qr.mat")
 q = reshape(M["V2"][:,1],192,168)
 Gray.(q)
 
