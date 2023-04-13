@@ -68,7 +68,7 @@ v1 = SVD_V.V[:,i]
 img1 = u1*spdiagm(0=>SVD_V.S[i])*v1'
 Gray.(img1)
 
-M = matread("Tutorial/Images/face_recog_qr.mat")
+M = matread("Images/face_recog_qr.mat")
 q = reshape(M["V2"][:,1],192,168)
 Gray.(q)
 
