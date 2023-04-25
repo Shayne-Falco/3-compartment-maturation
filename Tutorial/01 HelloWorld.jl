@@ -11,7 +11,7 @@ P,H = readdlm("programming_languages.csv",',';header=true);
 
 C = CSV.read("programming_languages.csv",DataFrame);
 
-#@show typeof(C)
+@show typeof(C)
 #C[1:10,:]
 #C.year
 
