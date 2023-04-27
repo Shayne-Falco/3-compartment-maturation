@@ -666,7 +666,7 @@ We can define a slider using
 """
 
 # ╔═╡ b37c9868-64d7-11eb-3033-a7b5d3065f7f
-@bind number_reds Slider(1:100, show_value=true)
+@bind number_reds Slider(1:100, show_value=false)
 
 # ╔═╡ b1dfe122-64dc-11eb-1104-1b8852b2c4c5
 md"""
