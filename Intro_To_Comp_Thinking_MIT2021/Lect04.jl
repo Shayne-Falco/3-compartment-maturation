@@ -176,8 +176,8 @@ e.g. $f_5(x) = 5\sin(x_1*x_2) + 2x_2/4x_3$
 
 # ╔═╡ 8c6b0236-76b4-11eb-2acf-91da23bedf0e
 begin
-	f₅(v) = 5sin(v[1]*v[2]) + 2*v[2]/4v[3]
-	f₅(x,y,z) = 5sin(x*y) + 2*y/4z
+	f₅(v) = 5sin(v[1]*v[2]) + 2*v[2]/4v[3] # function of a vector
+	f₅(x,y,z) = 5sin(x*y) + 2*y/4z         # function of three arguments
 end
 
 # ╔═╡ a397d526-76b5-11eb-3cce-4374e33324d1
