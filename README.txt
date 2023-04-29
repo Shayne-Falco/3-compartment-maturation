@@ -4,7 +4,9 @@ Look at the Overview Jupyter Notebook for info about the code and the project.
 
 ## Code Organization
 - Tutorial
-    - Holds files for the storage of code written following tutorials and Julia teaching material.
-    - Sources:
-        - Julia Programming Language Youtube
+	- Holds files for the storage of code written following tutorials and Julia teaching material.
+	- Sources:
+		- Julia Programming Language Youtube
+- Intro To Computational Thinking
+	- Following along to MIT Computational Thinking Spring 2021 on Julia YouTube 
         
