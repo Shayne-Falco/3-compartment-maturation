@@ -9,4 +9,8 @@ Look at the Overview Jupyter Notebook for info about the code and the project.
 		- Julia Programming Language Youtube
 - Intro To Computational Thinking
 	- Following along to MIT Computational Thinking Spring 2021 on Julia YouTube 
+- GRACE
+	- Folder for raw images and Inkscape images for publication and presentation
+- ParameterAnalysis
+	- Exploratory parameter analysis of the parameter sets found by TD search
         
