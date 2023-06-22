@@ -7,7 +7,7 @@
    viewBox="0 0 180 170"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="Supp_MMHTDs_Params.svg"
    xml:space="preserve"
    inkscape:export-filename="MMHTDs_Params.pdf"
@@ -28,13 +28,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4728472"
-     inkscape:cx="92.338158"
-     inkscape:cy="47.187515"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="2.9456944"
+     inkscape:cx="289.57518"
+     inkscape:cy="270.56439"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" /><defs
      id="defs2"><g
@@ -254,35 +254,90 @@
        x="123.47433"
        y="4.9617934" /><text
        xml:space="preserve"
-       style="font-size:2.82222222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-opacity:0.398966"
-       x="30.538689"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-opacity:0.398966"
+       x="30.157614"
        y="2.6442335"
        id="text7639"><tspan
          sodipodi:role="line"
          id="tspan7637"
-         style="stroke-width:0.3;font-size:2.82222222px"
-         x="30.538689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3"
+         x="30.157614"
          y="2.6442335">Standard TD</tspan></text><text
        xml:space="preserve"
-       style="font-size:2.82222222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-opacity:0.398966"
-       x="90.447067"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-opacity:0.398966"
+       x="90.065994"
        y="2.6442335"
        id="text7643"><tspan
          sodipodi:role="line"
          id="tspan7641"
-         style="stroke-width:0.3;font-size:2.82222222px"
-         x="90.447067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3"
+         x="90.065994"
          y="2.6442335">Uniform TD</tspan></text><text
        xml:space="preserve"
-       style="font-size:2.82222222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-opacity:0.398966"
-       x="150.3692"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-opacity:0.398966"
+       x="149.98813"
        y="2.6442335"
        id="text7647"><tspan
          sodipodi:role="line"
          id="tspan7645"
-         style="stroke-width:0.3;font-size:2.82222222px"
-         x="150.3692"
-         y="2.6442335">No TD</tspan></text></g><g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3"
+         x="149.98813"
+         y="2.6442335">No TD</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.499999"
+       x="-147.20587"
+       y="2.5946238"
+       id="text5286"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan5284"
+         style="stroke-width:0.5"
+         x="-147.20587"
+         y="2.5946238">Counts</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.499999"
+       x="-115.59129"
+       y="2.5946238"
+       id="text5290"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan5288"
+         style="stroke-width:0.5"
+         x="-115.59129"
+         y="2.5946238">Counts</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.499999"
+       x="-83.9767"
+       y="2.5946238"
+       id="text5294"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan5292"
+         style="stroke-width:0.5"
+         x="-83.9767"
+         y="2.5946238">Counts</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.499999"
+       x="-52.36211"
+       y="2.5946238"
+       id="text5298"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan5296"
+         style="stroke-width:0.5"
+         x="-52.36211"
+         y="2.5946238">Counts</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.499999"
+       x="-20.765205"
+       y="2.5946238"
+       id="text5302"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan5300"
+         style="stroke-width:0.5"
+         x="-20.765205"
+         y="2.5946238">Counts</tspan></text></g><g
      inkscape:groupmode="layer"
      id="g19161"
      inkscape:label="No"
@@ -406,19 +461,19 @@
    id="g18065">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.91937499px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9194px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18061"
-   x="135.95422"
+   x="128.94376"
    y="-42.164959">0.4</text>
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.91937499px;font-family:Times, 'Nimbus Roman';display:inline;stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9194px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18063"
-   x="442.65515"
+   x="435.64468"
    y="-42.164959">0.8</text>
   </g>
   
@@ -426,19 +481,19 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18071">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.91937499px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9194px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1.0000098,0.99999023,0,0,0)"
    id="text18067"
-   x="59.678616"
-   y="-92.067871">0</text>
+   x="94.462486"
+   y="81.539391">0</text>
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.91937499px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9194px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1.0000098,0.99999023,0,0,0)"
    id="text18069"
-   x="35.691853"
-   y="-515.53845">15</text>
+   x="489.72607"
+   y="80.854904">15</text>
   </g>
   <g
    style="display:inline;fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -593,20 +648,20 @@
    id="g18167">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18163"
-   x="125.02549"
+   x="118.01495"
    y="-42.164883">0.4</text>
    
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18165"
-   x="453.22015"
+   x="446.20963"
    y="-42.372562">0.9</text>
    
   </g>
@@ -661,21 +716,31 @@
    id="g18203">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18199"
-   x="61.646912"
-   y="-166.10309">5</text>
+   x="87.335487"
+   y="89.443802">0</text>
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18201"
-   x="35.687111"
-   y="-515.53833">25</text>
-  </g>
+   x="489.73129"
+   y="80.241257">25</text>
+  <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
+   id="text5326"
+   x="-493.68604"
+   y="89.443802">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
+   id="text5338"
+   x="-1075.2908"
+   y="89.443802">0</text></g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
    id="g18207">
@@ -804,19 +869,19 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18283">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18279"
-   x="59.673965"
+   x="87.918564"
    y="-42.164806">0</text>
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18281"
-   x="446.43546"
+   x="439.42493"
    y="-42.164806">4</text>
    
   </g>
@@ -882,11 +947,11 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18319"
-   x="33.714138"
-   y="-515.74597">60</text>
+   x="488.64111"
+   y="78.724609">60</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -1008,19 +1073,19 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18395">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18391"
-   x="90.015198"
+   x="87.918579"
    y="-42.164825">0</text>
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18393"
-   x="500.58548"
+   x="493.57495"
    y="-42.164825">40</text>
   </g>
   <g
@@ -1072,22 +1137,17 @@
   <g
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18431">
-   <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
-   id="text18427"
-   x="59.673954"
-   y="-92.067871">0</text>
+   
    
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18429"
-   x="33.714138"
-   y="-515.53833">50</text>
+   x="488.64114"
+   y="78.914742">50</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -1227,10 +1287,10 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18517">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18513"
-   x="97.68309"
+   x="87.918564"
    y="-42.164825">0</text>
    
    
@@ -1238,10 +1298,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18515"
-   x="461.70389"
+   x="454.69336"
    y="-41.74947">60</text>
    
   </g>
@@ -1289,20 +1349,20 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18549">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18545"
-   x="59.673954"
-   y="-86.300003">0</text>
+   x="88.695709"
+   y="78.914734">0</text>
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18547"
-   x="33.714138"
-   y="-516.16138">40</text>
+   x="488.64111"
+   y="78.17955">40</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -1436,20 +1496,20 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18631">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18627"
-   x="59.673954"
+   x="87.918587"
    y="-42.164806">0</text>
    
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18629"
-   x="429.85681"
+   x="422.84628"
    y="-41.541771">0.05</text>
    
   </g>
@@ -1522,11 +1582,16 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="display:inline;fill:#000000;fill-rule:nonzero;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.0279927"
+   transform="matrix(0,0.74905596,1.0682037,0,-1078.3234,-5.5539073)"
+   id="text5311"
+   x="135.05803"
+   y="1090.4731">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18671"
-   x="33.714127"
-   y="-516.16138">70</text>
+   x="488.64114"
+   y="79.041489">70</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -1664,10 +1729,10 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18759">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18755"
-   x="59.673943"
+   x="87.918564"
    y="-42.164806">0</text>
    
    
@@ -1675,10 +1740,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18757"
-   x="440.00662"
+   x="432.99609"
    y="-41.749432">0.06</text>
    
   </g>
@@ -1730,12 +1795,27 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18787"
-   x="33.714127"
-   y="-516.16138">80</text>
-  </g>
+   x="488.64117"
+   y="78.673897">80</text><text
+   style="display:inline;fill:#000000;fill-rule:nonzero;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.99999998,0.99999998,0,-531.66055,1.1881215e-5)"
+   id="text5321"
+   x="87.335487"
+   y="610.33447">0</text>
+  <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-rule:nonzero;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
+   id="text5328"
+   x="-493.68604"
+   y="78.673912">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-rule:nonzero;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
+   id="text5340"
+   x="-1075.2908"
+   y="78.673912">0</text></g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
    id="g18793">
@@ -1859,10 +1939,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18859"
-   x="423.55597"
+   x="416.54544"
    y="-41.541733">2.5</text>
    
   </g>
@@ -1910,20 +1990,20 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g18893">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18889"
-   x="59.673954"
+   x="87.918564"
    y="-42.164768">0</text>
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text18891"
-   x="33.714127"
-   y="-482.61462">80</text>
+   x="468.44321"
+   y="78.673897">80</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -2048,10 +2128,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text18963"
-   x="423.55597"
+   x="416.54544"
    y="-41.541714">2.5</text>
    
   </g>
@@ -2111,10 +2191,10 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g19005">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text19001"
-   x="59.673931"
+   x="87.918564"
    y="-42.164768">0</text>
    
    
@@ -2122,11 +2202,11 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text19003"
-   x="33.714115"
-   y="-515.74597">60</text>
+   x="488.64114"
+   y="78.724586">60</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -2296,30 +2376,30 @@
    id="g19109">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text19101"
-   x="113.94356"
+   x="106.93302"
    y="-42.164806">-0.8</text>
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text19103"
-   x="325.22223"
+   x="318.2117"
    y="-42.164806">-0.2</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text19105"
-   x="431.897"
+   x="424.88647"
    y="-42.164806">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text19107"
-   x="483.06851"
+   x="476.05798"
    y="-42.164806">0.2</text>
   </g>
   <g
@@ -2378,22 +2458,22 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g19149">
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text19145"
-   x="59.67392"
-   y="-92.067871">0</text>
+   x="94.463577"
+   y="78.889359">0</text>
    
    
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:51.9196281px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.9196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,1,1,0,0,0)"
    id="text19147"
-   x="33.714104"
-   y="-516.16138">30</text>
+   x="488.64111"
+   y="78.889359">30</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -3157,20 +3237,20 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g2128">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text2116"
-   x="89.947609"
+   x="99.836586"
    y="-37.563053">0.3</text>
    
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text2126"
-   x="634.06702"
+   x="624.70538"
    y="-37.563053">0.9</text>
   </g>
   <g
@@ -3217,25 +3297,25 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g2166">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text2156"
-   x="53.180256"
-   y="-85.800003">0</text>
+   x="134.0399"
+   y="58.291599">0</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text2160"
-   x="24.151304"
-   y="-286.78284">10</text>
+   x="400.91003"
+   y="58.291599">10</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text2164"
-   x="24.151308"
-   y="-481.41187">20</text>
+   x="672.47345"
+   y="57.546143">20</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -3375,10 +3455,10 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g2394">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text2378"
-   x="89.947609"
+   x="99.836594"
    y="-37.563053">0.3</text>
    
    
@@ -3387,10 +3467,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text2392"
-   x="681.38422"
+   x="672.02258"
    y="-37.563053">1</text>
   </g>
   <g
@@ -3425,24 +3505,34 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g2420">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text2414"
-   x="53.18026"
-   y="-92.153809">0</text>
+   x="143.10086"
+   y="59.793964">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text2416"
-   x="26.357508"
-   y="-286.43448">15</text>
+   x="400.47699"
+   y="59.028553">15</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text2418"
-   x="24.151308"
-   y="-481.41187">30</text>
-  </g>
+   x="672.47351"
+   y="57.605778">30</text>
+  <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
+   id="text5330"
+   x="-652.14453"
+   y="59.793964">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
+   id="text5342"
+   x="-1428.7986"
+   y="59.793964">0</text></g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
    id="g2424">
@@ -3575,10 +3665,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.03702972px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.037px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text2634"
-   x="678.83881"
+   x="669.47064"
    y="-37.509651">5</text>
   </g>
   <g
@@ -3643,28 +3733,28 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g2692">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.03702972px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.037px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text2676"
-   x="52.754501"
+   x="99.418236"
    y="-38.206097">0</text>
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.03702972px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.037px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69974682,1.4290883,0,0,0)"
    id="text2684"
-   x="23.736004"
-   y="-286.78973">40</text>
+   x="403.62433"
+   y="56.661263">40</text>
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.03702972px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.037px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69974682,1.4290883,0,0,0)"
    id="text2690"
-   x="23.736004"
-   y="-481.42596">70</text>
+   x="674.07196"
+   y="57.335472">70</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -3798,10 +3888,10 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g3002">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text2988"
-   x="97.031227"
+   x="99.300995"
    y="-38.202263">0</text>
    
    
@@ -3809,10 +3899,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text3000"
-   x="618.58795"
+   x="609.21796"
    y="-38.202263">300</text>
   </g>
   <g
@@ -3874,19 +3964,19 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961075,1.4293663,0,0,0)"
    id="text3044"
-   x="23.609127"
-   y="-286.78787">30</text>
+   x="402.91309"
+   y="57.124069">30</text>
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961074,1.4293663,0,0,0)"
    id="text3050"
-   x="23.609127"
-   y="-480.95782">60</text>
+   x="674.20984"
+   y="56.99519">60</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -4012,10 +4102,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text3276"
-   x="663.09723"
+   x="597.2998"
    y="-37.563053">200</text>
   </g>
   <g
@@ -4050,23 +4140,23 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g3304">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text3298"
-   x="40.857605"
+   x="87.513939"
    y="-37.563053">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text3300"
-   x="14.034855"
-   y="-286.12878">25</text>
+   x="401.64987"
+   y="50.024792">25</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.05790611px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text3302"
-   x="11.828654"
-   y="-480.71515">50</text>
+   x="672.47345"
+   y="48.98465">50</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -4192,10 +4282,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5281"
-   x="633.15668"
+   x="623.78668"
    y="-38.202263">0.2</text>
   </g>
   <g
@@ -4230,23 +4320,28 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g5309">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5303"
-   x="52.630394"
+   x="87.514946"
    y="-38.202263">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="display:inline;fill:#000000;fill-rule:nonzero;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70023589,1.4273409,0,-711.22405,0.73774613)"
+   id="text5308"
+   x="134.0399"
+   y="556.55963">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961075,1.4293663,0,0,0)"
    id="text5305"
-   x="25.814693"
-   y="-286.74377">35</text>
+   x="403.45941"
+   y="58.24081">35</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961074,1.4293663,0,0,0)"
    id="text5307"
-   x="23.609043"
-   y="-481.42215">70</text>
+   x="674.20978"
+   y="57.242977">70</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -4372,10 +4467,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5497"
-   x="633.15668"
+   x="623.78668"
    y="-33.084587">0.2</text>
   </g>
   <g
@@ -4410,24 +4505,39 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g5525">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5519"
-   x="43.097794"
+   x="77.982338"
    y="-33.084587">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961075,1.4293663,0,0,0)"
    id="text5521"
-   x="14.076443"
-   y="-286.78787">40</text>
+   x="403.70663"
+   y="49.899723">40</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-rule:nonzero;stroke-width:0.0279927"
+   transform="matrix(0,0.70041966,1.4277155,0,0,0)"
+   id="text5318"
+   x="136.81004"
+   y="49.907585">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961074,1.4293663,0,0,0)"
    id="text5523"
-   x="14.076443"
-   y="-481.42215">80</text>
-  </g>
+   x="666.89478"
+   y="50.286366">80</text>
+  <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-rule:nonzero;stroke-width:0.0279927"
+   transform="matrix(0,0.70041966,1.4277155,0,0,0)"
+   id="text5332"
+   x="-658.22668"
+   y="49.907585">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-rule:nonzero;stroke-width:0.0279927"
+   transform="matrix(0,0.70041966,1.4277155,0,0,0)"
+   id="text5344"
+   x="-1434.677"
+   y="49.907585">0</text></g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
    id="g5529">
@@ -4533,22 +4643,22 @@
    id="g5709">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5703"
-   x="281.14423"
+   x="271.77423"
    y="-38.202282">1</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5705"
-   x="485.14423"
+   x="475.77423"
    y="-38.202282">2</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5707"
-   x="679.18457"
+   x="669.81458"
    y="-38.202282">3</text>
   </g>
   <g
@@ -4583,23 +4693,23 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g5735">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5729"
-   x="52.630394"
+   x="87.514946"
    y="-38.202282">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961075,1.4293663,0,0,0)"
    id="text5731"
-   x="25.814667"
-   y="-286.43961">55</text>
+   x="402.4494"
+   y="57.878014">55</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961074,1.4293663,0,0,0)"
    id="text5733"
-   x="-5.4123068"
-   y="-481.42215">110</text>
+   x="637.28125"
+   y="50.422222">110</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -4711,22 +4821,22 @@
    id="g5913">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5907"
-   x="281.14423"
+   x="271.77423"
    y="-38.202263">1</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5909"
-   x="485.14423"
+   x="475.77423"
    y="-38.202263">2</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5911"
-   x="679.18457"
+   x="669.81458"
    y="-38.202263">3</text>
   </g>
   <g
@@ -4761,23 +4871,23 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g5939">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5933"
-   x="52.630394"
+   x="87.514946"
    y="-38.202263">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961075,1.4293663,0,0,0)"
    id="text5935"
-   x="25.814667"
-   y="-286.43961">45</text>
+   x="403.2713"
+   y="57.303009">45</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04267335px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961074,1.4293663,0,0,0)"
    id="text5937"
-   x="23.609043"
-   y="-481.42215">90</text>
+   x="674.20984"
+   y="56.856335">90</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -4927,28 +5037,28 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g6239">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04252073px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0425px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6231"
-   x="85.300003"
+   x="88.506721"
    y="-38.204742">-1</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04252073px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0425px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6233"
-   x="282.79999"
+   x="273.42999"
    y="-37.508232">-0.5</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04252073px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0425px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6235"
-   x="495.79999"
+   x="486.42999"
    y="-38.204742">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0425px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0425px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6237"
-   x="635.3045"
+   x="625.93451"
    y="-37.508232">0.5</text>
   </g>
   <g
@@ -4983,23 +5093,23 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g6265">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04252073px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0425px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69960672,1.4293745,0,0,0)"
    id="text6259"
-   x="52.630302"
-   y="-85.800003">0</text>
+   x="134.3905"
+   y="57.064171">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04252073px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0425px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69960673,1.4293745,0,0,0)"
    id="text6261"
-   x="23.609064"
-   y="-286.78793">20</text>
+   x="403.00076"
+   y="57.064171">20</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.04252073px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0425px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69960672,1.4293745,0,0,0)"
    id="text6263"
-   x="23.609064"
-   y="-481.42224">40</text>
+   x="674.21417"
+   y="56.568481">40</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -6362,20 +6472,20 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g5073">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0427px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5061"
-   x="89.947975"
+   x="86.967278"
    y="-38.202213">0.3</text>
    
    
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0427px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5071"
-   x="634.89801"
+   x="625.52802"
    y="-38.202194">0.8</text>
   </g>
   <g
@@ -6414,25 +6524,20 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g5111">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0427px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961074,1.4293663,0,0,0)"
    id="text5101"
-   x="52.630421"
-   y="-86.300003">0</text>
+   x="135.10435"
+   y="57.808098">0</text>
+   
+   
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0427px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
-   id="text5105"
-   x="23.609081"
-   y="-286.78787">10</text>
-   
-   <text
-   style="font-style:normal;font-weight:normal;font-size:58.0427px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.69961074,1.4293663,0,0,0)"
    id="text5109"
-   x="23.609081"
-   y="-481.42212">20</text>
+   x="674.20966"
+   y="57.064556">20</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -6572,10 +6677,10 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g5700">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5684"
-   x="89.947609"
+   x="87.513939"
    y="-37.563004">0.3</text>
    
    
@@ -6584,10 +6689,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5698"
-   x="681.38422"
+   x="672.02258"
    y="-37.563004">1</text>
   </g>
   <g
@@ -6630,28 +6735,33 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g5750">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text5736"
-   x="53.180241"
-   y="-86.300003">0</text>
+   x="134.75294"
+   y="59.793953">0</text>
    
    
-   <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
-   id="text5742"
-   x="26.357492"
-   y="-286.43448">15</text>
+   
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text5748"
-   x="24.151293"
-   y="-481.41187">30</text>
-  </g>
+   x="672.47345"
+   y="57.60577">30</text>
+  <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
+   id="text5334"
+   x="-652.14459"
+   y="59.793953">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
+   id="text5346"
+   x="-1428.7987"
+   y="59.793953">0</text></g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
    id="g5754">
@@ -6785,10 +6895,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.054px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.054px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text5988"
-   x="678.83136"
+   x="669.47101"
    y="-36.869179">5</text>
   </g>
   <g
@@ -6823,23 +6933,18 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g6016">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.054px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.054px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6010"
-   x="53.266171"
+   x="87.596848"
    y="-37.565826">0</text>
+   
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.054px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
-   id="text6012"
-   x="26.445221"
-   y="-286.43582">35</text>
-   <text
-   style="font-style:normal;font-weight:normal;font-size:58.054px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.054px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70132394,1.4258746,0,0,0)"
    id="text6014"
-   x="24.239168"
-   y="-481.41449">70</text>
+   x="672.37823"
+   y="57.789303">70</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -6947,10 +7052,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6200"
-   x="647.59448"
+   x="638.23285"
    y="-36.866306">50</text>
   </g>
   <g
@@ -6985,23 +7090,18 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g6228">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6222"
-   x="53.180241"
+   x="87.513939"
    y="-37.563">0</text>
+   
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
-   id="text6224"
-   x="24.151293"
-   y="-286.78284">30</text>
-   <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text6226"
-   x="24.151293"
-   y="-480.94739">60</text>
+   x="672.47345"
+   y="57.476555">60</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -7144,10 +7244,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6377"
-   x="647.59448"
+   x="638.23285"
    y="-37.563053">70</text>
   </g>
   <g
@@ -7182,23 +7282,18 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g6405">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6399"
-   x="53.180241"
+   x="87.513939"
    y="-37.563053">0</text>
+   
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
-   id="text6401"
-   x="26.357492"
-   y="-286.43448">25</text>
-   <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text6403"
-   x="24.151293"
-   y="-480.71515">50</text>
+   x="672.47345"
+   y="57.625648">50</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -7338,10 +7433,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6623"
-   x="604.5155"
+   x="595.15387"
    y="-37.098591">0.06</text>
   </g>
   <g
@@ -7386,28 +7481,33 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g6681">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text6665"
-   x="53.180233"
+   x="87.513939"
    y="-37.563053">0</text>
    
    
+   
+   
+   
+   
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="display:inline;fill:#000000;fill-rule:nonzero;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0427px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70060347,1.4280902,0,-711.12509,-0.7387463)"
+   id="text5304"
+   x="135.10435"
+   y="555.52917">0</text><text
+   style="display:inline;fill:#000000;fill-rule:nonzero;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122949,1.4260667,0,4.0943862e-6,-5.3833207e-6)"
    id="text6671"
-   x="24.151278"
-   y="-286.4783">30</text>
-   
-   
-   
-   <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   x="401.45377"
+   y="57.605759">30</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text6679"
-   x="24.151278"
-   y="-481.41187">70</text>
+   x="672.47345"
+   y="57.725033">70</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -7554,10 +7654,10 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text7387"
-   x="605.61865"
+   x="596.25702"
    y="-37.563053">0.07</text>
   </g>
   <g
@@ -7600,26 +7700,41 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g7427">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text7417"
-   x="53.180256"
+   x="87.513969"
    y="-37.563053">0</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text7421"
-   x="24.151306"
-   y="-286.7829">40</text>
+   x="402.68192"
+   y="57.049171">40</text><text
+   style="display:inline;fill:#000000;fill-rule:nonzero;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122949,1.4260667,0,-711.75379,5.3115433e-5)"
+   id="text5315"
+   x="134.75294"
+   y="556.15192">0</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text7425"
-   x="24.151306"
-   y="-481.4119">80</text>
-  </g>
+   x="672.47351"
+   y="57.43681">80</text>
+  <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-rule:nonzero;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
+   id="text5336"
+   x="-652.14453"
+   y="57.049183">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-rule:nonzero;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
+   id="text5348"
+   x="-1428.7986"
+   y="57.049183">0</text></g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
    id="g7431">
@@ -7725,22 +7840,22 @@
    id="g7575">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text7569"
-   x="281.14038"
+   x="271.77875"
    y="-37.563019">1</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text7571"
-   x="485.14038"
+   x="475.77875"
    y="-37.563019">2</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text7573"
-   x="679.17798"
+   x="669.81635"
    y="-37.563019">3</text>
   </g>
   <g
@@ -7775,23 +7890,23 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g7601">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text7595"
-   x="53.180233"
+   x="87.513939"
    y="-37.563019">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text7597"
-   x="26.357481"
-   y="-286.43436">55</text>
+   x="401.42648"
+   y="58.362591">55</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text7599"
-   x="-4.8776689"
-   y="-481.41177">110</text>
+   x="635.53522"
+   y="50.886707">110</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -7907,22 +8022,22 @@
    id="g9926">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text9920"
-   x="292.29999"
+   x="282.93835"
    y="-37.563">1</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text9922"
-   x="495.29999"
+   x="485.93835"
    y="-37.563">2</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text9924"
-   x="679.17798"
+   x="669.81635"
    y="-37.563">3</text>
   </g>
   <g
@@ -7957,23 +8072,23 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g9952-3">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text9946"
-   x="53.180233"
+   x="87.513939"
    y="-37.563">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text9948"
-   x="26.357481"
-   y="-286.43448">45</text>
+   x="402.24878"
+   y="57.786102">45</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text9950"
-   x="24.151281"
-   y="-481.41187">90</text>
+   x="672.47345"
+   y="57.337395">90</text>
   </g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -8124,28 +8239,28 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g10148-6">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text10140"
-   x="85.300003"
+   x="88.506142"
    y="-37.563053">-1</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text10142"
-   x="282.79999"
+   x="273.43835"
    y="-36.86636">-0.5</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text10144"
-   x="495.79999"
+   x="486.43835"
    y="-37.563053">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text10146"
-   x="635.28619"
+   x="625.92456"
    y="-36.86636">0.5</text>
   </g>
   <g
@@ -8180,24 +8295,34 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g10174">
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text10168"
-   x="53.180233"
-   y="-92.153809">0</text>
+   x="143.10086"
+   y="57.546124">0</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text10170"
-   x="24.151281"
-   y="-286.78284">20</text>
+   x="401.97311"
+   y="57.546124">20</text>
    <text
-   style="font-style:normal;font-weight:normal;font-size:58.0579px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
-   transform="scale(1,-1)"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
    id="text10172"
-   x="24.151281"
-   y="-481.41187">40</text>
-  </g>
+   x="672.47345"
+   y="57.049152">40</text>
+  <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
+   id="text5350"
+   x="143.10086"
+   y="-441.47711">0</text><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0579px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
+   transform="matrix(0,0.70122948,1.4260667,0,0,0)"
+   id="text5352"
+   x="143.10086"
+   y="593.35022">0</text></g>
   <g
    style="fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
    id="g10178-1">

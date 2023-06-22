@@ -11,7 +11,7 @@
    inkscape:export-filename="ModelOverviewFit2All.pdf"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="Fig_ModelOverviewFit2All_RatioOnZ.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -29,15 +29,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5728009"
-     inkscape:cx="311.5461"
-     inkscape:cy="288.3391"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="4.4485527"
+     inkscape:cx="358.09399"
+     inkscape:cy="342.80812"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g25868"
+     inkscape:current-layer="layer1"
      inkscape:lockguides="false" /><defs
      id="defs2"><marker
        style="overflow:visible"
@@ -6244,25 +6244,27 @@
        transform="matrix(0.07610052,0,0,-0.07610052,-78.704418,-90.122787)">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:37.0855px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.0855px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text25701"
-   x="59.290367"
+   x="48.348682"
    y="-156.23997">5</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:37.0855px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.0855px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.028"
    transform="scale(1,-1)"
    id="text25705"
-   x="50.290367"
+   x="39.348682"
    y="-308.98645">15</text>
    
    <text
    style="font-style:normal;font-weight:normal;font-size:37.0855px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
    transform="scale(1,-1)"
    id="text25709"
-   x="50.290367"
-   y="-461.98645">25</text>
+   x="39.348682"
+   y="-461.98645"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+     id="tspan27930">25</tspan></text>
    
   </g><g
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.918;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -8107,10 +8109,10 @@
      y="-11.303316"
      id="text52383"><tspan
        sodipodi:role="line"
-       style="font-size:2.82222px;stroke-width:0.264583"
+       style="font-style:italic;font-size:2.82222px;stroke-width:0.264583"
        x="202.53204"
        y="-11.303316"
-       id="tspan52379">Leading</tspan><tspan
+       id="tspan52379">in vivo</tspan><tspan
        sodipodi:role="line"
        style="font-size:2.82222px;stroke-width:0.264583"
        x="202.53204"
@@ -8704,10 +8706,10 @@
      y="-13.364114"
      id="text52426"><tspan
        sodipodi:role="line"
-       style="font-size:2.82222px;stroke-width:0.264583"
+       style="font-style:italic;font-size:2.82222px;stroke-width:0.264583"
        x="247.73022"
        y="-13.364114"
-       id="tspan52422">Lagging</tspan><tspan
+       id="tspan52422">in vivo</tspan><tspan
        sodipodi:role="line"
        style="font-size:2.82222px;stroke-width:0.264583"
        x="247.73022"
@@ -9750,10 +9752,10 @@
      y="-11.303316"
      id="text52408"><tspan
        sodipodi:role="line"
-       style="font-size:2.82222px;stroke-width:0.264583"
+       style="font-size:2.82222px;stroke-width:0.264583;font-style:italic"
        x="202.53204"
        y="-11.303316"
-       id="tspan52404">Leading</tspan><tspan
+       id="tspan52404">in vivo</tspan><tspan
        sodipodi:role="line"
        style="font-size:2.82222px;stroke-width:0.264583"
        x="202.53204"
@@ -10352,10 +10354,10 @@
      y="-13.364114"
      id="text52462"><tspan
        sodipodi:role="line"
-       style="font-size:2.82222px;stroke-width:0.264583"
+       style="font-style:italic;font-size:2.82222px;stroke-width:0.264583"
        x="247.73022"
        y="-13.364114"
-       id="tspan52458">Lagging</tspan><tspan
+       id="tspan52458">in vivo</tspan><tspan
        sodipodi:role="line"
        style="font-size:2.82222px;stroke-width:0.264583"
        x="247.73022"
@@ -11050,10 +11052,10 @@
      y="-113.16209"
      id="text813"><tspan
        sodipodi:role="line"
-       style="font-size:2.82222px;stroke-width:0.264583"
+       style="font-style:italic;font-size:2.82222px;stroke-width:0.264583"
        x="221.85008"
        y="-113.16209"
-       id="tspan10455">Total</tspan><tspan
+       id="tspan10455">in vivo</tspan><tspan
        sodipodi:role="line"
        style="font-size:2.82222px;stroke-width:0.264583"
        x="221.85008"
@@ -12099,10 +12101,10 @@
      y="24.588732"
      id="text52492"><tspan
        sodipodi:role="line"
-       style="font-size:2.82222px;stroke-width:0.264583"
+       style="font-style:italic;font-size:2.82222px;stroke-width:0.264583"
        x="123.39391"
        y="24.588732"
-       id="tspan52488">Cytoplasm</tspan><tspan
+       id="tspan52488">in vivo</tspan><tspan
        sodipodi:role="line"
        style="font-size:2.82222px;stroke-width:0.264583"
        x="123.39391"

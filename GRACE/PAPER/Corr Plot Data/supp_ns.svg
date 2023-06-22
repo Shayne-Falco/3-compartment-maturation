@@ -17,7 +17,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:ns1="http://www.iki.fi/pav/software/textext/"><sodipodi:namedview
+   xmlns:ns2="http://www.iki.fi/pav/software/textext/"><sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -29,14 +29,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.9704153"
-     inkscape:cx="63.945909"
-     inkscape:cy="254.76862"
+     inkscape:cx="63.94591"
+     inkscape:cy="254.76863"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-9-56" /><defs
+     inkscape:current-layer="g4255" /><defs
      id="defs2"><g
        id="id-ec76318d-3a45-40a5-b485-4c0149584c4c">
       <g
@@ -654,7 +654,7 @@
    id="g19716">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.5045px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.5045px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text19704"
    x="157.31511"
@@ -663,7 +663,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.5045px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.5045px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text19712"
    x="445.89157"
@@ -743,7 +743,7 @@
    id="g19766">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.5045px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.5045px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text19754"
    x="157.31511"
@@ -752,7 +752,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.5045px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.5045px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text19762"
    x="445.89157"
@@ -1536,16 +1536,16 @@
        inkscape:label="Labels"
        transform="translate(62.582955,112.4656)"><g
          transform="matrix(0.33896869,0,0,0.33896869,20.912469,34.382457)"
-         ns1:version="1.8.2"
-         ns1:texconverter="pdflatex"
-         ns1:pdfconverter="inkscape"
-         ns1:text="$$n_1$$"
-         ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-         ns1:scale="0.08151884339088625"
-         ns1:alignment="middle center"
-         ns1:stroke-to-path="0"
-         ns1:inkscapeversion="1.2"
-         ns1:jacobian_sqrt="0.440878"
+         ns2:version="1.8.2"
+         ns2:texconverter="pdflatex"
+         ns2:pdfconverter="inkscape"
+         ns2:text="$$n_1$$"
+         ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+         ns2:scale="0.08151884339088625"
+         ns2:alignment="middle center"
+         ns2:stroke-to-path="0"
+         ns2:inkscapeversion="1.2"
+         ns2:jacobian_sqrt="0.440878"
          id="g49658-7-6"><defs
    id="id-ab84fb91-ffe1-4c32-b6a2-f0956e7e6a6a">
     <g
@@ -1592,16 +1592,16 @@
       </g></g>
 </g><g
          transform="matrix(0,-0.33896869,0.33896869,0,3.8198131,19.964518)"
-         ns1:version="1.8.2"
-         ns1:texconverter="pdflatex"
-         ns1:pdfconverter="inkscape"
-         ns1:text="$$n_2$$"
-         ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-         ns1:scale="1.2497331319019769"
-         ns1:alignment="middle center"
-         ns1:stroke-to-path="0"
-         ns1:inkscapeversion="1.2"
-         ns1:jacobian_sqrt="0.440878"
+         ns2:version="1.8.2"
+         ns2:texconverter="pdflatex"
+         ns2:pdfconverter="inkscape"
+         ns2:text="$$n_2$$"
+         ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+         ns2:scale="1.2497331319019769"
+         ns2:alignment="middle center"
+         ns2:stroke-to-path="0"
+         ns2:inkscapeversion="1.2"
+         ns2:jacobian_sqrt="0.440878"
          style="stroke-width:0"
          id="g55025-9-97"><defs
    id="id-d7bec96d-1fc4-4ba1-94d4-f771e886ec85"
@@ -1735,7 +1735,7 @@
    id="g13931">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text13921"
    x="156.64503"
@@ -1743,7 +1743,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text13927"
    x="432.5426"
@@ -1814,7 +1814,7 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g13975">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13963"
    x="84.697838"
@@ -1824,7 +1824,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13973"
    x="532.54803"
@@ -2431,16 +2431,16 @@
    transform="matrix(15.3306,0,0,-15.3306,-22.632421,601.51978)"
    style="display:inline"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.9403142,19.837463)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_2$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_2$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      style="display:inline;stroke-width:0"
      id="g55025-9-97-0"><defs
    id="id-d7bec96d-1fc4-4ba1-94d4-f771e886ec85-1"
@@ -2502,16 +2502,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33896868,0,0,0.33896868,20.86425,34.38272)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-6-2"><defs
    id="id-45e7c6d9-d016-4d52-a1fe-d9d36b83ac1c">
     <g
@@ -2635,7 +2635,7 @@
    id="g14447">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text14435"
    x="142.08057"
@@ -2644,7 +2644,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text14443"
    x="447.62625"
@@ -2718,7 +2718,7 @@
    id="g13975-2"
    transform="translate(5.9622311,3.5326903)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13963-8"
    x="81.165146"
@@ -2728,7 +2728,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13973-9"
    x="529.01538"
@@ -3333,16 +3333,16 @@
    transform="matrix(15.3306,0,0,-15.3306,-16.824876,601.71765)"
    style="display:inline"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.9504043,19.85037)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_2$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_2$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      style="display:inline;stroke-width:0"
      id="g55025-9-97-0-9"><defs
    id="id-d7bec96d-1fc4-4ba1-94d4-f771e886ec85-1-7"
@@ -3404,16 +3404,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33896868,0,0,0.33896868,20.448355,34.382619)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_2$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_2$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-6-2-4"><defs
    id="id-a6806d67-e79e-4316-bc93-b68700f4971d">
     <g
@@ -3521,14 +3521,14 @@
    id="g14989">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text14981"
    x="196.3824"
    y="-42.659016">5</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text14985"
    x="413.35678"
@@ -3602,7 +3602,7 @@
    id="g13975-7"
    transform="translate(-26.986139)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13963-3"
    x="84.697838"
@@ -3612,7 +3612,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13973-6"
    x="532.54803"
@@ -4385,16 +4385,16 @@
    transform="matrix(15.3306,0,0,-15.3306,-25.577488,599.46184)"
    style="display:inline"><g
      transform="matrix(0,-0.33896868,0.33896868,0,4.132418,19.703226)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_2$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_2$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      style="display:inline;stroke-width:0"
      id="g55025-9-97-0-3"><defs
    id="id-d7bec96d-1fc4-4ba1-94d4-f771e886ec85-1-0"
@@ -4456,16 +4456,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33107786,0,0,0.33107786,21.046347,34.402011)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_3$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_3$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-6-2-44"><defs
    id="id-8176c31b-5ab5-4e1f-9886-ac1ea447b5b8">
     <g
@@ -4574,14 +4574,14 @@
    id="g15590">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text15582"
    x="188.90265"
    y="-42.918613">10</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text15586"
    x="419.87372"
@@ -4656,7 +4656,7 @@
    id="g13975-1"
    transform="translate(9.315944,9.1215053)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13963-2"
    x="75.576332"
@@ -4666,7 +4666,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13973-93"
    x="523.42651"
@@ -5193,16 +5193,16 @@
    transform="matrix(15.3306,0,0,-15.3306,-16.76447,598.6098)"
    style="display:inline"><g
      transform="matrix(0,-0.33896868,0.33896868,0,4.3292241,19.647648)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_2$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_2$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      style="display:inline;stroke-width:0"
      id="g55025-9-97-0-4"><defs
    id="id-d7bec96d-1fc4-4ba1-94d4-f771e886ec85-1-5"
@@ -5264,16 +5264,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33896868,0,0,0.33896868,20.798045,34.310209)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_4$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_4$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-6-2-1"><defs
    id="id-69f88378-41c8-419f-b3ca-e2316aa348a2">
     <g
@@ -5381,14 +5381,14 @@
    id="g15965">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text15957"
    x="183.03471"
    y="-46.53801">10</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text15961"
    x="414.00577"
@@ -5462,7 +5462,7 @@
    id="g13975-19"
    transform="translate(8.5868456,-6.7875463)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13963-4"
    x="96.084564"
@@ -5472,7 +5472,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13973-7"
    x="539.33557"
@@ -5880,16 +5880,16 @@
    transform="matrix(15.3306,0,0,-15.3306,-22.632428,600.24934)"
    style="display:inline"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.9403147,19.754594)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_2$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_2$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      style="display:inline;stroke-width:0"
      id="g55025-9-97-0-92"><defs
    id="id-d7bec96d-1fc4-4ba1-94d4-f771e886ec85-1-8"
@@ -5951,16 +5951,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33107786,0,0,0.33107786,20.86459,34.181063)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_5$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_5$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-6-2-9"><defs
    id="id-328e1912-bd4a-4c76-85c9-04035757fe87">
     <g
@@ -6085,7 +6085,7 @@
    id="g16445">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text16433"
    x="138.91391"
@@ -6094,7 +6094,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text16441"
    x="443.96207"
@@ -6169,7 +6169,7 @@
    id="g13975-8"
    transform="translate(8.8677533,-8.4535099)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13963-45"
    x="97.750526"
@@ -6179,7 +6179,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13973-0"
    x="541.00159"
@@ -6951,16 +6951,16 @@
    transform="matrix(15.3306,0,0,-15.3306,-15.934318,597.20826)"
    style="display:inline"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.8540645,19.556227)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_2$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_2$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      style="display:inline;stroke-width:0"
      id="g55025-9-97-0-2"><defs
    id="id-d7bec96d-1fc4-4ba1-94d4-f771e886ec85-1-4"
@@ -7022,16 +7022,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33107786,0,0,0.33107786,20.854243,33.985452)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_6$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_6$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-6-2-6"><defs
    id="id-8083ea4b-2809-4353-a4b6-424e29affce4">
     <g
@@ -7164,7 +7164,7 @@
    id="g17357">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text17343"
    x="129.8183"
@@ -7174,7 +7174,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text17353"
    x="456.07465"
@@ -7246,7 +7246,7 @@
    id="g13975-3"
    transform="translate(-199.66184,153.19767)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13963-6"
    x="-68.499832"
@@ -7256,7 +7256,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text13973-1"
    x="379.35037"
@@ -8031,16 +8031,16 @@
        transform="translate(123.41618,112.10943)"
        style="display:inline"><g
          transform="matrix(0,-0.33896869,0.33896869,0,3.24452,19.953494)"
-         ns1:version="1.8.2"
-         ns1:texconverter="pdflatex"
-         ns1:pdfconverter="inkscape"
-         ns1:text="$$n_2$$"
-         ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-         ns1:scale="1.2497331319019769"
-         ns1:alignment="middle center"
-         ns1:stroke-to-path="0"
-         ns1:inkscapeversion="1.2"
-         ns1:jacobian_sqrt="0.440878"
+         ns2:version="1.8.2"
+         ns2:texconverter="pdflatex"
+         ns2:pdfconverter="inkscape"
+         ns2:text="$$n_2$$"
+         ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+         ns2:scale="1.2497331319019769"
+         ns2:alignment="middle center"
+         ns2:stroke-to-path="0"
+         ns2:inkscapeversion="1.2"
+         ns2:jacobian_sqrt="0.440878"
          style="display:inline;stroke-width:0"
          id="g55025-9-97-0-91"><defs
    id="id-d7bec96d-1fc4-4ba1-94d4-f771e886ec85-1-85"
@@ -8102,16 +8102,16 @@
       </g></g>
 </g><g
          transform="matrix(0.33107787,0,0,0.33107787,20.818029,34.382715)"
-         ns1:version="1.8.2"
-         ns1:texconverter="pdflatex"
-         ns1:pdfconverter="inkscape"
-         ns1:text="$$\\alpha_7$$"
-         ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-         ns1:scale="0.08151884339088625"
-         ns1:alignment="middle center"
-         ns1:stroke-to-path="0"
-         ns1:inkscapeversion="1.2"
-         ns1:jacobian_sqrt="0.440878"
+         ns2:version="1.8.2"
+         ns2:texconverter="pdflatex"
+         ns2:pdfconverter="inkscape"
+         ns2:text="$$\\alpha_7$$"
+         ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+         ns2:scale="0.08151884339088625"
+         ns2:alignment="middle center"
+         ns2:stroke-to-path="0"
+         ns2:inkscapeversion="1.2"
+         ns2:jacobian_sqrt="0.440878"
          id="g49658-7-6-2-98"><defs
    id="id-d1bcf3c2-b90f-4256-9635-648dd2da4cdb">
     <g
@@ -8229,7 +8229,7 @@
    style="display:inline;fill:#000000;fill-rule:nonzero"
    id="g4255">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text4243"
    x="158.27138"
@@ -8239,7 +8239,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text4253"
    x="427.48318"
@@ -8318,7 +8318,7 @@
    id="g4305"
    transform="translate(-7.414038,-5.5484666)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4291"
    x="90.246307"
@@ -8329,7 +8329,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4303"
    x="507.50717"
@@ -9124,16 +9124,16 @@
    inkscape:label="Labels"
    transform="matrix(15.3306,0,0,-15.3306,-25.927966,598.03439)"><g
      transform="matrix(0.33896868,0,0,0.33896868,21.079216,34.51582)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="6.75893"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="6.75893"
      id="g49658"
      inkscape:label="a1"><defs
    id="id-ccf2fe10-5097-4fde-99b5-906fc9ad85b5">
@@ -9181,16 +9181,16 @@
       </g></g>
 </g><g
      transform="matrix(0,-0.33896868,0.33896868,0,4.154816,19.57304)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g55025"
      inkscape:label="n1"
      style="display:inline"><defs
@@ -9316,7 +9316,7 @@
    id="g5862">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text5850"
    x="142.08057"
@@ -9325,7 +9325,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text5858"
    x="447.62625"
@@ -9407,7 +9407,7 @@
    id="g4305-6"
    transform="translate(-26.537674,-5.5484532)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4291-2"
    x="90.246307"
@@ -9418,7 +9418,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4303-9"
    x="507.50717"
@@ -10199,16 +10199,16 @@
    inkscape:label="Labels"
    transform="matrix(15.3306,0,0,-15.3306,-22.631471,601.69778)"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.9397888,19.811999)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g55025-9"
      inkscape:label="n1"
      style="display:inline"><defs
@@ -10257,16 +10257,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33896868,0,0,0.33896868,20.827114,34.383041)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_2$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_2$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7"><defs
    id="id-90fb3c83-eb81-407e-ac53-f1fc3630d253">
     <g
@@ -10374,14 +10374,14 @@
    id="g6413">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text6405"
    x="202.55"
    y="-44.499611">5</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text6409"
    x="427.54999"
@@ -10463,7 +10463,7 @@
    id="g4305-1"
    transform="translate(1.9584743,0.43581603)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4291-27"
    x="84.262024"
@@ -10474,7 +10474,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4303-0"
    x="501.52289"
@@ -11239,16 +11239,16 @@
    inkscape:label="Labels"
    transform="matrix(15.3306,0,0,-15.3306,-22.632739,601.0097)"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.9398716,19.767116)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g59555"
      inkscape:label="n1"
      style="display:inline"><defs
@@ -11297,16 +11297,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33107786,0,0,0.33107786,20.854264,34.363623)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_3$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_3$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g59585"><defs
    id="id-83ada870-24ff-4f4d-97bf-0253e6b2130d">
     <g
@@ -11415,14 +11415,14 @@
    id="g10499">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:4.59917;stroke-dasharray:none"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:4.59917;stroke-dasharray:none;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text10491"
    x="183.03471"
    y="-40.249313">10</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:4.59917;stroke-dasharray:none"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:4.59917;stroke-dasharray:none;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text10495"
    x="414.00577"
@@ -11504,7 +11504,7 @@
    id="g4305-60"
    transform="translate(-4.6246121,-7.1780121)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4291-6"
    x="91.875854"
@@ -11515,7 +11515,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4303-2"
    x="509.13672"
@@ -12062,16 +12062,16 @@
    inkscape:label="Labels"
    transform="matrix(15.3306,0,0,-15.3306,-25.927962,598.0344)"><g
      transform="matrix(0,-0.33896868,0.33896868,0,4.1548161,19.57304)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g55025-9-9"
      inkscape:label="n1"
      style="display:inline"><defs
@@ -12120,16 +12120,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33896868,0,0,0.33896868,21.01301,34.446792)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_4$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_4$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      style="stroke-width:0"
      id="g49658-7-1"><defs
    id="id-d1bb873a-ace6-4510-912c-d2d2f44d6dba"
@@ -12252,14 +12252,14 @@
    id="g10880">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text10872"
    x="183.03471"
    y="-46.537983">10</text>
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text10876"
    x="414.00577"
@@ -12341,7 +12341,7 @@
    id="g4305-61"
    transform="translate(7.7791627,-5.5484649)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4291-8"
    x="90.246307"
@@ -12352,7 +12352,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4303-7"
    x="507.50717"
@@ -12787,16 +12787,16 @@
    inkscape:label="Labels"
    transform="matrix(15.3306,0,0,-15.3306,-22.634276,603.34232)"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.939972,19.919271)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g55025-9-5"
      inkscape:label="n1"
      style="display:inline"><defs
@@ -12845,16 +12845,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33107786,0,0,0.33107786,20.86471,34.382817)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_5$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_5$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-5"><defs
    id="id-a05af083-89f3-417f-b60f-de4965b5f939">
     <g
@@ -12978,7 +12978,7 @@
    id="g11735">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text11723"
    x="132.21582"
@@ -12987,7 +12987,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text11731"
    x="437.26395"
@@ -13069,7 +13069,7 @@
    id="g4305-9"
    transform="translate(-5.1356861,-10.536616)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4291-20"
    x="90.246307"
@@ -13080,7 +13080,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4303-23"
    x="507.50717"
@@ -13873,16 +13873,16 @@
    inkscape:label="Labels"
    transform="matrix(15.3306,0,0,-15.3306,-22.633945,603.30006)"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.9399504,19.916514)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g55025-9-4"
      inkscape:label="n1"
      style="display:inline"><defs
@@ -13931,16 +13931,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33107786,0,0,0.33107786,20.854343,34.399749)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_6$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_6$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-8"><defs
    id="id-8a14ebd3-2bca-4a2d-b8d0-3a33d879662a">
     <g
@@ -14072,7 +14072,7 @@
    id="g13382">
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text13368"
    x="121.28722"
@@ -14082,7 +14082,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="scale(1,-1)"
    id="text13378"
    x="447.54358"
@@ -14164,7 +14164,7 @@
    id="g4305-7"
    transform="translate(9.3839572,-5.5484494)">
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4291-5"
    x="90.246307"
@@ -14175,7 +14175,7 @@
    
    
    <text
-   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:Times, 'Nimbus Roman';stroke-width:0.028"
+   style="font-style:normal;font-weight:normal;font-size:43.2664px;font-family:sans-serif;stroke-width:0.028;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal"
    transform="matrix(0,1,1,0,0,0)"
    id="text4303-92"
    x="507.50717"
@@ -14974,16 +14974,16 @@
    inkscape:label="Labels"
    transform="matrix(15.3306,0,0,-15.3306,-22.634248,603.30005)"><g
      transform="matrix(0,-0.33896868,0.33896868,0,3.9399702,19.916514)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$n_1$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="1.2497331319019769"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$n_1$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="1.2497331319019769"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g55025-9-1"
      inkscape:label="n1"
      style="display:inline"><defs
@@ -15032,16 +15032,16 @@
       </g></g>
 </g><g
      transform="matrix(0.33107786,0,0,0.33107786,20.818151,34.382815)"
-     ns1:version="1.8.2"
-     ns1:texconverter="pdflatex"
-     ns1:pdfconverter="inkscape"
-     ns1:text="$$\\alpha_7$$"
-     ns1:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-     ns1:scale="0.08151884339088625"
-     ns1:alignment="middle center"
-     ns1:stroke-to-path="0"
-     ns1:inkscapeversion="1.2"
-     ns1:jacobian_sqrt="0.440878"
+     ns2:version="1.8.2"
+     ns2:texconverter="pdflatex"
+     ns2:pdfconverter="inkscape"
+     ns2:text="$$\\alpha_7$$"
+     ns2:preamble="C:\Users\shayn\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns2:scale="0.08151884339088625"
+     ns2:alignment="middle center"
+     ns2:stroke-to-path="0"
+     ns2:inkscapeversion="1.2"
+     ns2:jacobian_sqrt="0.440878"
      id="g49658-7-4"><defs
    id="id-3b790f56-16d6-43ed-90f8-ddb3634143a1">
     <g
