@@ -11,7 +11,7 @@
    inkscape:export-filename="FRAP.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="Fig_FRAP.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -30,11 +30,11 @@
      showgrid="false"
      inkscape:zoom="1.9702"
      inkscape:cx="152.26881"
-     inkscape:cy="62.683991"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cy="62.937773"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer5" /><defs
      id="defs2"><rect
@@ -88,7 +88,10 @@
      inkscape:label="B"><g
        id="g5387"
        inkscape:label="Recovery"
-       transform="translate(-40.800303,-37.049288)"><g
+       transform="translate(-40.800303,-37.049288)"
+       inkscape:export-filename=".\FRAP.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><g
          transform="matrix(0.05662819,0,0,-0.08107247,89.716799,85.725605)"
          id="g1523"
          inkscape:label="RecoveryCurves">
@@ -647,7 +650,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Panels"
-     transform="translate(88.5,119)"><text
+     transform="translate(88.5,119)"
+     style="display:none"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-44.440216"
