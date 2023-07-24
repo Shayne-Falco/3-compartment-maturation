@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:export-filename="Inheritance.png"
+   inkscape:export-filename="Inheritance.pdf"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
@@ -29,15 +29,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.0270023"
-     inkscape:cx="403.05825"
-     inkscape:cy="185.4956"
+     inkscape:zoom="2.8666141"
+     inkscape:cx="315.00577"
+     inkscape:cy="257.44658"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9" /><defs
+     inkscape:current-layer="layer5" /><defs
      id="defs2"><inkscape:path-effect
    effect="spiro"
    id="path-effect68362"
@@ -13144,7 +13144,7 @@
        id="g30960"
        inkscape:label="Probas"
        style="display:inline"
-       transform="translate(5.445594)"><g
+       transform="translate(0.92298206)"><g
          transform="matrix(0.352778,0,0,0.352778,91.314531,91.8481)"
          ns1:version="1.8.2"
          ns1:texconverter="pdflatex"
@@ -15708,7 +15708,7 @@
      x="711.20642"
      y="-519.88586">Inheritance Pattern</tspan></text></g><g
        id="g11373"
-       transform="translate(70.872623,-44.512055)"
+       transform="translate(71.51871,-44.512055)"
        inkscape:label="Legend Inher"
        style="display:inline"><g
          id="g11371"
@@ -16430,7 +16430,7 @@
    id="path6755"
    style="stroke:#000000;stroke-width:0.919836;stroke-dasharray:none;stroke-opacity:1" />
   </g></g><g
-       transform="matrix(0.06522902,0,0,-0.06522902,143.02674,67.529771)"
+       transform="matrix(0.06522902,0,0,-0.06522902,143.67283,67.529771)"
        id="g27672"
        inkscape:label="Data Paterns"
        style="display:inline">
@@ -18336,7 +18336,7 @@
        x="277.22119"
        y="-532.43518">ns</tspan></text></g></g><g
        id="g13529"
-       transform="translate(56.938122,-111.75151)"
+       transform="translate(57.584212,-111.75151)"
        inkscape:label="Legend Cell"
        style="display:inline"><g
          id="g32790"
