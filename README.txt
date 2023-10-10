@@ -1,4 +1,4 @@
-The 3 compartment model used in my dissertation research converted from Matlab to Julia. This won't have tyhe full functionality of my dissertation code but should provide the necessary ideas to undertand the project and analysis.
+The 3 compartment model used in my dissertation research in Matlab. This won't have tyhe full functionality of my dissertation code but should provide the necessary ideas to undertand the project and analysis.
 
 Look at the Overview Jupyter Notebook for info about the code and the project.
 
