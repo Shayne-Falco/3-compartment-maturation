@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1259"
    sodipodi:docname="Model_anmd_fitting.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.914906"
-     inkscape:cx="629.57287"
-     inkscape:cy="383.09947"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
+     inkscape:zoom="0.64693624"
+     inkscape:cx="657.71551"
+     inkscape:cy="513.18813"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -80,7 +80,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="matrix(0.08982935,0,0,-0.09039383,161.44267,181.21632)"
+       transform="matrix(0.08982935,0,0,-0.09039383,161.44267,354.73142)"
        id="g15798"
        inkscape:label="LeadRecovery"
        style="display:inline;stroke-width:0.78918"
@@ -838,7 +838,7 @@
            y="-4.0012035">Centrosomal FRAP</tspan></text>
     </g>
     <g
-       transform="matrix(0.09009505,0,0,-0.09037767,162.4052,239.2953)"
+       transform="matrix(0.09009505,0,0,-0.09037767,162.4052,412.8104)"
        id="g17943"
        inkscape:label="LaggRecovery"
        style="display:inline;stroke-width:0.78918">
@@ -1593,7 +1593,7 @@
            y="-14.662464">Centrosomal FRAP</tspan></text>
     </g>
     <g
-       transform="matrix(0.09038871,0,0,-0.09041451,103.55986,181.06246)"
+       transform="matrix(0.09038871,0,0,-0.09041451,103.55986,354.57756)"
        id="g9909"
        style="display:inline;stroke-width:0.78918"
        inkscape:label="LeadRecruitment">
@@ -2910,7 +2910,7 @@
          id="path54441" />
     </g>
     <g
-       transform="matrix(0.07226686,0,0,-0.10330328,102.76576,243.09948)"
+       transform="matrix(0.07226686,0,0,-0.10330328,102.76576,416.61458)"
        id="g11769"
        inkscape:label="LaggRecruitment"
        style="display:inline;stroke-width:0.78918">
@@ -3661,7 +3661,7 @@
          transform="matrix(1.2507628,0,0,0.87523364,10.988465,646.39667)" />
     </g>
     <g
-       transform="matrix(0.09010633,0,0,-0.09041452,46.390167,181.05518)"
+       transform="matrix(0.09010633,0,0,-0.09041452,46.390167,354.57028)"
        id="g13158"
        inkscape:label="Totl"
        style="display:inline;stroke-width:0.78918">
@@ -5129,7 +5129,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.09022205,0,0,-0.090414,46.367632,239.14801)"
+       transform="matrix(0.09022205,0,0,-0.090414,46.367632,412.66311)"
        id="g14301"
        style="display:inline;stroke-width:0.78918"
        inkscape:label="Cyto">
@@ -5901,7 +5901,7 @@
     <g
        id="g35804"
        inkscape:label="sim Rec"
-       transform="matrix(1.2671386,0,0,1.2671386,117.59619,142.06993)"
+       transform="matrix(1.5912947,0,0,1.5912947,191.44921,168.84785)"
        inkscape:export-filename="model.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100"
@@ -6058,32 +6058,107 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-linejoin:round;stroke-opacity:1"
-         x="-54.485626"
-         y="-224.50127"
-         id="text13098"
-         transform="translate(-8.685895,125.73783)"><tspan
+         style="font-size:3.99046135px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-linejoin:round;stroke-opacity:1"
+         x="-63.17152"
+         y="-60.82703"
+         id="text13098"><tspan
            sodipodi:role="line"
            id="tspan13096"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-opacity:1"
-           x="-54.485626"
-           y="-224.50127">F=1 ; B=0</tspan></text>
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-opacity:1;font-size:3.99046135px"
+           x="-63.17152"
+           y="-60.82703">F=1</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-opacity:1;font-size:3.99046135px"
+           x="-63.17152"
+           y="-57.299244"
+           id="tspan20696">B=0</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.394589;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:3.99046135px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.394589;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="-63.223198"
-         y="-102.7673"
+         y="-67.5569"
          id="text14709"><tspan
            sodipodi:role="line"
            id="tspan14707"
-           style="stroke-width:0.39459"
+           style="stroke-width:0.39459;font-size:3.99046135px"
            x="-63.223198"
-           y="-102.7673">Recruitment Only</tspan></text>
+           y="-67.5569">Recruitment Only</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:3.99046px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';baseline-shift:baseline;fill:#000000;stroke:#000ff2;stroke-width:0.188526"
+         x="-119.44956"
+         y="-101.61711"
+         id="text15535"><tspan
+           sodipodi:role="line"
+           id="tspan15533"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99046px;font-family:sans-serif;-inkscape-font-specification:sans-serif;baseline-shift:baseline;stroke:none;stroke-width:0.188526"
+           x="-119.44956"
+           y="-101.61711">C<tspan
+   style="font-size:3.99046px;baseline-shift:sub"
+   id="tspan18322">y</tspan> - Cytoplasm</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99046px;font-family:sans-serif;-inkscape-font-specification:sans-serif;baseline-shift:baseline;stroke:none;stroke-width:0.188526"
+           x="-119.44956"
+           y="-96.629036"
+           id="tspan18318">C<tspan
+   style="font-size:3.99046px;baseline-shift:sub"
+   id="tspan18324">1</tspan> - Centrosome 1</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99046px;font-family:sans-serif;-inkscape-font-specification:sans-serif;baseline-shift:baseline;stroke:none;stroke-width:0.188526"
+           x="-119.44956"
+           y="-91.640961"
+           id="tspan18320">C<tspan
+   style="font-size:3.99046px;baseline-shift:sub"
+   id="tspan18326">2</tspan> - Centrosome 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99046135px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.188526"
+         x="-73.059586"
+         y="-44.317776"
+         id="text19830"><tspan
+           sodipodi:role="line"
+           id="tspan19828"
+           style="fill:#ff0000;fill-opacity:1;stroke-width:0.188526;font-size:3.99046135px"
+           x="-73.059586"
+           y="-44.317776">Carrying Capacity</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99046px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.188526"
+         x="-26.899233"
+         y="-44.317776"
+         id="text19834"><tspan
+           sodipodi:role="line"
+           id="tspan19832"
+           style="font-size:3.99046px;fill:#ff0000;fill-opacity:1;stroke-width:0.188526"
+           x="-26.899233"
+           y="-44.317776">Cooperativity</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99046135px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.188526"
+         x="6.5397601"
+         y="-44.317776"
+         id="text19838"><tspan
+           sodipodi:role="line"
+           id="tspan19836"
+           style="fill:#ff0000;fill-opacity:1;stroke-width:0.188526;font-size:3.99046135px"
+           x="6.5397601"
+           y="-44.317776">Basal Loss</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99046px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.188526"
+         x="-98.865768"
+         y="-44.317776"
+         id="text19842"><tspan
+           sodipodi:role="line"
+           id="tspan19840"
+           style="font-size:3.99046px;fill:#ff0000;fill-opacity:1;stroke-width:0.188526"
+           x="-98.865768"
+           y="-44.317776">Basal Gain</tspan></text>
     </g>
     <g
        id="g35758"
        inkscape:label="sim FRAP"
-       transform="matrix(1.2671386,0,0,1.2671386,117.59619,144.16138)"
+       transform="matrix(1.5912947,0,0,1.5912947,292.37715,98.520156)"
        style="display:inline;stroke-width:0.78918">
       <g
          id="g12665"
@@ -6237,59 +6312,64 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-linejoin:round;stroke-opacity:1"
+         style="font-size:3.99046px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-linejoin:round;stroke-opacity:1"
          x="-63.17152"
-         y="-54.374451"
+         y="-16.438046"
          id="text13882"><tspan
            sodipodi:role="line"
            id="tspan13880"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-opacity:1"
+           style="font-size:3.99046px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-opacity:1"
            x="-63.17152"
-           y="-54.374451">F&lt;1 ; B&gt;0</tspan></text>
+           y="-16.438046">F&lt;1</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.99046px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118377;stroke-opacity:1"
+           x="-63.17152"
+           y="-11.449968"
+           id="tspan20698">B&gt;0</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:0.394589;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:3.99046px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:0.394589;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          x="-63.091595"
-         y="-58.572037"
+         y="-23.361637"
          id="text14685"><tspan
            sodipodi:role="line"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39459"
+           style="font-size:3.99046px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39459"
            x="-63.091595"
-           y="-58.572037"
+           y="-23.361637"
            id="tspan14687">Simulated Photobleaching</tspan></text>
     </g>
     <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.501495;stroke-dasharray:none;stroke-opacity:1"
-       d="M 52.065593,124.62552 H 153.38599"
+       d="M 52.065593,298.14062 H 153.38599"
        id="path15101" />
     <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
-       d="m 167.07051,124.62552 h 43.79231"
+       d="m 167.07051,298.14062 h 43.79231"
        id="path15104" />
     <text
        xml:space="preserve"
        style="font-size:3.57614px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
        x="102.69905"
-       y="121.99648"
+       y="295.51157"
        id="text15108"><tspan
          sodipodi:role="line"
          id="tspan15106"
          style="font-size:3.57614px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="102.69905"
-         y="121.99648">Recruitment</tspan></text>
+         y="295.51157">Recruitment</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.57614px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
        x="188.88948"
-       y="121.99648"
+       y="295.51157"
        id="text15112"><tspan
          sodipodi:role="line"
          id="tspan15110"
          style="font-size:3.57614px;stroke-width:0.5"
          x="188.88948"
-         y="121.99648">Recovery</tspan></text>
+         y="295.51157">Recovery</tspan></text>
     <g
-       transform="matrix(0.46003263,0,0,0.46003263,66.021001,24.766383)"
+       transform="matrix(0.74783833,0,0,0.74783833,-17.599707,100.72697)"
        ns19:version="1.8.2"
        ns19:texconverter="pdflatex"
        ns19:pdfconverter="inkscape"
@@ -6300,7 +6380,10 @@
        ns19:stroke-to-path="0"
        ns19:jacobian_sqrt="0.352778"
        id="g25942"
-       style="stroke-width:0.766854">
+       style="stroke-width:0.766854"
+       inkscape:export-filename="model.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <defs
          id="id-3aa1b741-11a2-4734-bc35-a23d6d8f73ef">
         <g
@@ -6527,7 +6610,7 @@
       </defs>
       <g
          id="g3923"
-         transform="translate(46.518863)">
+         transform="translate(46.839176,129.22975)">
         <g
            fill="#000000"
            fill-opacity="1"
@@ -7461,7 +7544,7 @@
       </g>
       <g
          id="g3447"
-         transform="translate(46.518863,0.5412875)">
+         transform="translate(46.518863,-55.870911)">
         <g
            fill="#000000"
            fill-opacity="1"
@@ -9013,7 +9096,7 @@
       </g>
       <g
          id="g3749"
-         transform="translate(46.518863)">
+         transform="translate(46.518863,-58.813037)">
         <g
            fill="#000000"
            fill-opacity="1"
@@ -10628,5 +10711,21 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.3"
+       x="141.44759"
+       y="72.264519"
+       id="text20702"><tspan
+         sodipodi:role="line"
+         id="tspan20700"
+         style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.3"
+         x="141.44759"
+         y="72.264519">Fluorescent</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.3"
+         x="141.44759"
+         y="80.202019"
+         id="tspan20704">Bleached</tspan></text>
   </g>
 </svg>
